@@ -1,0 +1,35 @@
+.button
+{
+  
+    
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;        /* keep same height */
+    padding: 0 16px;     /* equal padding */
+    vertical-align: middle;
+    border-radius: 20px;
+}
+
+
+
+#button-1
+{
+    background-color:green;
+}
+#button-2
+{
+    background-color: white;
+    border-style: 2px black;
+}
+#button-3
+{
+    background-color:green;
+}
+
+/*display: flex;
+    display:inline-flex;
+    border-radius:20px; 
+    height:25px;
+    width:100px;
+    text-align: center;*/
